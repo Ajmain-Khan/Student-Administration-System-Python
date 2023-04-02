@@ -1,3 +1,5 @@
 ## Description:
 
-A program that allows a user to add students and their data to a database and display those details in a table or search for them. A login screen must be succesfully completed in order to start the main program.
+Command line version of the program that allows for the same features; administrators can easily manage students and associated information. Features include the ability to add new students and student data to the database, modify and delete existing records, and display database details in a table, as well as query the db to search for students or other datapoints.
+
+Correct credentials (admin/password) must first be entered into a login screen in order to start the main program.
